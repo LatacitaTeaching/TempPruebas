@@ -1,9 +1,9 @@
-.. Apendiendo Read the Docs documentation master file, created by
+.. Aprendiendo Read the Docs documentation master file, created by
    sphinx-quickstart on Wed Sep 26 12:59:07 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Apendiendo Read the Docs's documentation!
+Welcome to Aprendiendo Read the Docs's documentation!
 ====================================================
 
 .. toctree::
