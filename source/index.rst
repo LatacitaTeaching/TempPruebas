@@ -8,9 +8,10 @@ Welcome to Aprendiendo Read the Docs's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Índice:
 
-
+   tema1/index
+   tema2/index
 
 Indices and tables
 ==================
